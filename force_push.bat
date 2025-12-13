@@ -32,7 +32,7 @@ git branch -M main
 echo.
 echo [5/5] Setting remote repository...
 git remote remove origin 2>nul
-git remote add origin https://github.com/Mustychampion/Portplio.git
+git remote add origin https://github.com/Mustychampion/portpolio.git
 
 :: 7. Push
 echo.
