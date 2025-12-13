@@ -7,7 +7,7 @@ export default defineConfig(({ mode }) => ({
     host: "::",
     port: 8080,
   },
-  base: "/portpolio/",
+  base: '/portpolio/',
   plugins: [react()],
   resolve: {
     alias: {
